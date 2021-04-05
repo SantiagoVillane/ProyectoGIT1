@@ -3,4 +3,4 @@ Hola de FranEl cambio climático es el mal de nuestro tiempo y sus consecuencias
 La temperatura media mundial ha aumentado ya 1,1°C desde la época preindustrial
 El período 2015-2019, según la Organización Meteorológica Mundial (OMM), será probablemente el quinquenio más cálido jamás registrado
 La tasa de subida del nivel del mar ha ascendido a 5 mm al año en el quinquenio 2014 -2019
-Pero hoy también estamos viendo los impactos económicos y sociales, que serán cada vez más graves, como:
+Pero hoy también estamos viendo los impactos económicos y sociales, que serán cada vez más graves, como: Hola Mundo.cpp
